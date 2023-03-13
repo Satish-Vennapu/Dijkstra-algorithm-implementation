@@ -5,7 +5,7 @@
 
 ## 1 Implementation of the Dijkstra algorithm for path planning of a point robot
 
-# GitHub link: https://github.com/Satish-Vennapu/Dijkstra-algorithm-implementation.git
+## GitHub link: https://github.com/Satish-Vennapu/Dijkstra-algorithm-implementation.git
 
 **filename: Dijkstra_Satish_Vennapu.py**
 
